@@ -1,5 +1,5 @@
 # deckofcards.py
-Web-API for deckofcardsapi.com to simulate deck cards
+Web-API for [deckofcardsapi.com](http://deckofcardsapi.com) to simulate deck cards
 
 ## Example
 ```python3
